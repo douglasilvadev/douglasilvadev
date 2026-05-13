@@ -8,11 +8,6 @@
   <img src="https://raw.githubusercontent.com/devSouravj/devSouravj/master/coding.gif" width="400" alt="Coding GIF" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=douglasilvadev&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=22C55E&style=for-the-badge" alt="Profile views" />
-</p>
-
----
 
 ## 🚀 Sobre Mim
 
@@ -47,7 +42,7 @@ Atualmente focado em desafios que envolvem **arquitetura robusta**, **otimizaç�
 
 ## 💼 Entregas que me orgulho
 
-- ⚡ **Redução de tempo de assinatura de contratos B2B de 1 semana para 1 dia** (UC Livre)
+- ⚡ **Redução de tempo de assinatura de contratos B2B de 1 semana para 1 dia**
 - 📈 Implementação de **dashboards** e orquestração de **eventos fiscais com Redis**
 - 🔧 **Otimização de performance** com Redis, SQL/Prisma e redução de custos em cloud (Network Egress, Disk I/O)
 - 🚗 Desenvolvimento da funcionalidade **"Venda Rápida"** para agilizar conversão em concessionárias
@@ -95,23 +90,6 @@ Atualmente focado em desafios que envolvem **arquitetura robusta**, **otimizaç�
 <img src="https://img.shields.io/badge/GitHub-323330?style=for-the-badge&logo=github&logoColor=22C55E" />
 <img src="https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=visual-studio-code&logoColor=22C55E" />
 
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasilvadev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasilvadev&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=FFFFFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=douglasilvadev&theme=midnight-purple&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=douglasilvadev&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
 </p>
 
 ---
